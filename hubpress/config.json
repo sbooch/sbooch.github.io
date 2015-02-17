@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "sbooch",
-    "repositoryName": "sbooch.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"sbooch","repositoryName":"sbooch.github.io","branch":"master"},"site":{"url":"http://sbooch.github.io"},"socialnetwork":{},"theme":{"name":"uno","url":"http://sbooch.github.io/themes/uno"}}
